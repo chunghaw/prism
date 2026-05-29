@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-05-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001321655</issuerCik>
+        <issuerName>Palantir Technologies Inc.</issuerName>
+        <issuerTradingSymbol>PLTR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001705189</rptOwnerCik>
+            <rptOwnerName>Buckley Jeffrey</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O PALANTIR TECHNOLOGIES INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>19505 BISCAYNE BOULEVARD, SUITE 2350</rptOwnerStreet2>
+            <rptOwnerCity>AVENTURA</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33180</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>1</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-05-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>29</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>132.9528</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>64220</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-05-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>74</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>134.2027</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>64146</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-05-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>119</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>135.0886</value>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>64027</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-05-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>964</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>136.0811</value>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>63063</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-05-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>526</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>136.6143</value>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>62537</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-05-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F7"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>830</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>137.41</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>61707</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction represents an automatic sale of shares to cover required tax withholding obligations in connection with the vesting of restricted stock units. All sales were conducted in compliance
+with the Reporting Person's Rule 10b5-1 trading plan.</footnote>
+        <footnote id="F2">This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $132.48 to $133.43. The price reported above
+reflects the weighted average sale price of trades occurring within that price range. See footnotes (2) through (6) for sales executed in price ranges on the date indicated. The Reporting Person
+undertakes to provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each
+separate sale price.</footnote>
+        <footnote id="F3">This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $133.52 to $134.51. The price reported above reflects
+the weighted average sale price of trades occurring within that price range. See footnotes (2) through (6) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to
+provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price.</footnote>
+        <footnote id="F4">This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $134.52 to $135.51. The price reported above reflects
+the weighted average sale price of trades occurring within that price range. See footnotes (2) through (6) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to
+provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price.</footnote>
+        <footnote id="F5">This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $135.52 to $136.515. The price reported above reflects
+the weighted average sale price of trades occurring within that price range. See footnotes (2) through (6) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to
+provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price.</footnote>
+        <footnote id="F6">This transaction represents sales executed in multiple open market sales. The sales reflected in this line item were made at prices ranging from $136.52 to $136.835. The price reported above reflects
+the weighted average sale price of trades occurring within that price range. See footnotes (2) through (6) for sales executed in price ranges on the date indicated. The Reporting Person undertakes to
+provide upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate sale price.</footnote>
+        <footnote id="F7">The Reporting Person sold shares of Class A Common Stock in the open market pursuant to a Rule 10b5-1 trading plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c),
+entered into on May 30, 2025.</footnote>
+    </footnotes>
+
+    <remarks>Officer title: Chief Accounting Officer. This Form 4 has been compiled based on applicable requirements to reflect the specific transactions described herein and is not intended to disclose or describe all shares and/or other equity securities owned or beneficially held by the Reporting Person.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Devon Klein, under power of attorney</signatureName>
+        <signatureDate>2026-05-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
