@@ -1,0 +1,182 @@
+[
+  {
+    "paper_id": "kahneman-tversky-1979",
+    "title": "Prospect Theory: An Analysis of Decision under Risk",
+    "authors": ["Kahneman, Daniel", "Tversky, Amos"],
+    "year": 1979,
+    "venue": "Econometrica",
+    "abstract": "Foundational model of choice under risk: people evaluate outcomes as gains and losses relative to a reference point, weight losses more heavily than equivalent gains (loss aversion), and distort probabilities. Explains risk-seeking in the domain of losses.",
+    "bias_tags": ["loss aversion", "reference dependence", "probability weighting"],
+    "pattern_explained": "Why retail traders ride losers and avoid realizing losses; underpins the disposition effect."
+  },
+  {
+    "paper_id": "tversky-kahneman-1974",
+    "title": "Judgment under Uncertainty: Heuristics and Biases",
+    "authors": ["Tversky, Amos", "Kahneman, Daniel"],
+    "year": 1974,
+    "venue": "Science",
+    "abstract": "Catalogs the heuristics (representativeness, availability, anchoring-and-adjustment) people use under uncertainty and the systematic biases they produce.",
+    "bias_tags": ["anchoring", "availability", "representativeness"],
+    "pattern_explained": "Anchoring on recent prices and availability of WSB narratives drives retail mispricing."
+  },
+  {
+    "paper_id": "thaler-1985",
+    "title": "Mental Accounting and Consumer Choice",
+    "authors": ["Thaler, Richard H."],
+    "year": 1985,
+    "venue": "Marketing Science",
+    "abstract": "Introduces mental accounting: people segregate money into non-fungible mental buckets and evaluate gains/losses per account, leading to framing-dependent decisions.",
+    "bias_tags": ["mental accounting", "framing"],
+    "pattern_explained": "Framing of a position (house money vs cost basis) shapes hold/sell decisions independent of fundamentals."
+  },
+  {
+    "paper_id": "shefrin-statman-1985",
+    "title": "The Disposition to Sell Winners Too Early and Ride Losers Too Long",
+    "authors": ["Shefrin, Hersh", "Statman, Meir"],
+    "year": 1985,
+    "venue": "Journal of Finance",
+    "abstract": "Names and models the disposition effect: investors realize gains too quickly and hold losers too long, driven by loss aversion and mental accounting.",
+    "bias_tags": ["disposition effect", "loss aversion"],
+    "pattern_explained": "Predicts retail behaviour when a hyped ticker turns: holding into drawdowns rather than cutting."
+  },
+  {
+    "paper_id": "debondt-thaler-1985",
+    "title": "Does the Stock Market Overreact?",
+    "authors": ["De Bondt, Werner F. M.", "Thaler, Richard"],
+    "year": 1985,
+    "venue": "Journal of Finance",
+    "abstract": "Finds prior extreme losers outperform prior extreme winners over subsequent years — evidence of systematic overreaction and long-horizon mean reversion.",
+    "bias_tags": ["overreaction", "mean reversion"],
+    "pattern_explained": "When retail euphoria peaks and prices overshoot, subsequent mean reversion is the base-rate expectation."
+  },
+  {
+    "paper_id": "black-1986",
+    "title": "Noise",
+    "authors": ["Black, Fischer"],
+    "year": 1986,
+    "venue": "Journal of Finance",
+    "abstract": "Argues markets are populated by noise traders who trade on noise as if it were information, providing liquidity but pushing prices away from value.",
+    "bias_tags": ["noise trading"],
+    "pattern_explained": "Frames retail crowds as noise traders whose activity can decouple price from fundamentals."
+  },
+  {
+    "paper_id": "delong-shleifer-summers-waldmann-1990",
+    "title": "Noise Trader Risk in Financial Markets",
+    "authors": ["De Long, J. Bradford", "Shleifer, Andrei", "Summers, Lawrence H.", "Waldmann, Robert J."],
+    "year": 1990,
+    "venue": "Journal of Political Economy",
+    "abstract": "Shows that unpredictable noise-trader sentiment is itself a risk that deters arbitrage, so mispricings can persist and even be profitable for noise traders.",
+    "bias_tags": ["noise trader risk", "limits to arbitrage", "sentiment"],
+    "pattern_explained": "Explains why institutional 'smart money' may not immediately correct a retail-driven mispricing."
+  },
+  {
+    "paper_id": "jegadeesh-titman-1993",
+    "title": "Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency",
+    "authors": ["Jegadeesh, Narasimhan", "Titman, Sheridan"],
+    "year": 1993,
+    "venue": "Journal of Finance",
+    "abstract": "Documents medium-term momentum: past 3-12 month winners continue to outperform past losers, a robust anomaly inconsistent with weak-form efficiency.",
+    "bias_tags": ["momentum", "underreaction"],
+    "pattern_explained": "Momentum can sustain a rally even as insiders sell — short-horizon continuation before reversal."
+  },
+  {
+    "paper_id": "odean-1998",
+    "title": "Are Investors Reluctant to Realize Their Losses?",
+    "authors": ["Odean, Terrance"],
+    "year": 1998,
+    "venue": "Journal of Finance",
+    "abstract": "Using brokerage records, shows individual investors sell winners at a markedly higher rate than losers, confirming the disposition effect empirically.",
+    "bias_tags": ["disposition effect"],
+    "pattern_explained": "Empirical retail evidence for the hold-losers behaviour Prism flags after a hype unwind."
+  },
+  {
+    "paper_id": "barber-odean-2000",
+    "title": "Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors",
+    "authors": ["Barber, Brad M.", "Odean, Terrance"],
+    "year": 2000,
+    "venue": "Journal of Finance",
+    "abstract": "The most active individual investors underperform the market net of costs; overtrading, not bad stock selection alone, erodes returns.",
+    "bias_tags": ["overtrading", "overconfidence"],
+    "pattern_explained": "Core retail-underperformance evidence; the lens for high-churn WSB names."
+  },
+  {
+    "paper_id": "barber-odean-2001",
+    "title": "Boys Will Be Boys: Gender, Overconfidence, and Common Stock Investment",
+    "authors": ["Barber, Brad M.", "Odean, Terrance"],
+    "year": 2001,
+    "venue": "Quarterly Journal of Economics",
+    "abstract": "Overconfident investors trade more and earn lower returns; the effect is stronger among men, linking overconfidence to excessive trading.",
+    "bias_tags": ["overconfidence", "overtrading"],
+    "pattern_explained": "Overconfidence as the mechanism behind euphoric, high-volume retail participation."
+  },
+  {
+    "paper_id": "barber-odean-2008",
+    "title": "All That Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors",
+    "authors": ["Barber, Brad M.", "Odean, Terrance"],
+    "year": 2008,
+    "venue": "Review of Financial Studies",
+    "abstract": "Individual investors are net buyers of attention-grabbing stocks (high volume, news, extreme returns); institutions are far less attention-driven.",
+    "bias_tags": ["attention", "retail demand"],
+    "pattern_explained": "Directly explains WSB mention spikes: retail buys attention, institutions don't — a divergence engine."
+  },
+  {
+    "paper_id": "seyhun-1986",
+    "title": "Insiders' Profits, Costs of Trading, and Market Efficiency",
+    "authors": ["Seyhun, H. Nejat"],
+    "year": 1986,
+    "venue": "Journal of Financial Economics",
+    "abstract": "Insiders earn abnormal profits and their aggregate trading predicts market and cross-sectional returns; insider buying is more informative than selling.",
+    "bias_tags": ["insider signal"],
+    "pattern_explained": "Establishes that insider transactions carry predictive content — the basis for the insider advocate."
+  },
+  {
+    "paper_id": "lakonishok-lee-2001",
+    "title": "Are Insider Trades Informative?",
+    "authors": ["Lakonishok, Josef", "Lee, Inmoo"],
+    "year": 2001,
+    "venue": "Review of Financial Studies",
+    "abstract": "Aggregated insider activity predicts future returns, concentrated in small firms; insider buying is informative while routine selling is largely not.",
+    "bias_tags": ["insider signal"],
+    "pattern_explained": "Insider buying > selling as a signal; cautions that much insider selling is uninformative (e.g. diversification)."
+  },
+  {
+    "paper_id": "cohen-malloy-pomorski-2012",
+    "title": "Decoding Inside Information",
+    "authors": ["Cohen, Lauren", "Malloy, Christopher", "Pomorski, Lukasz"],
+    "year": 2012,
+    "venue": "Journal of Finance",
+    "abstract": "Separates 'routine' insiders (predictable, calendar-driven trades) from 'opportunistic' ones; only opportunistic trades predict returns and news.",
+    "bias_tags": ["insider signal", "routine vs opportunistic"],
+    "pattern_explained": "Justifies Prism distinguishing programmatic 10b5-1 / routine sales from discretionary, informative insider sales."
+  },
+  {
+    "paper_id": "kumar-2009",
+    "title": "Who Gambles in the Stock Market?",
+    "authors": ["Kumar, Alok"],
+    "year": 2009,
+    "venue": "Journal of Finance",
+    "abstract": "Identifies retail investors' preference for lottery-type stocks (low price, high volatility, high skewness), especially among certain demographics.",
+    "bias_tags": ["lottery preference", "gambling", "skewness"],
+    "pattern_explained": "Why retail crowds into speculative, high-volatility names — the profile of many WSB favourites."
+  },
+  {
+    "paper_id": "bali-cakici-whitelaw-2011",
+    "title": "Maxing Out: Stocks as Lotteries and the Cross-Section of Expected Returns",
+    "authors": ["Bali, Turan G.", "Cakici, Nusret", "Whitelaw, Robert F."],
+    "year": 2011,
+    "venue": "Journal of Financial Economics",
+    "abstract": "Stocks with extreme recent daily returns (high MAX) earn low subsequent returns, consistent with demand for lottery-like payoffs.",
+    "bias_tags": ["lottery preference", "skewness", "overpricing"],
+    "pattern_explained": "Lottery-stock demand overprices high-MAX names — a headwind after a retail-driven spike."
+  },
+  {
+    "paper_id": "baker-wurgler-2006",
+    "title": "Investor Sentiment and the Cross-Section of Stock Returns",
+    "authors": ["Baker, Malcolm", "Wurgler, Jeffrey"],
+    "year": 2006,
+    "venue": "Journal of Finance",
+    "abstract": "Constructs an investor-sentiment index and shows that when sentiment is high, speculative, hard-to-value stocks subsequently underperform.",
+    "bias_tags": ["sentiment", "overpricing"],
+    "pattern_explained": "High retail sentiment predicts underperformance for speculative names — quantifies the euphoria signal."
+  }
+]
