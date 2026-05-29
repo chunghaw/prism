@@ -1,0 +1,10 @@
+{
+  "_note": "SYNTHETIC fixture for tests/test_parse_wsb.py — not real Reddit data. Shaped like a PRAW Submission dict. Mentions $PLTR plus junk uppercase tokens (THE, CEO, USA) to prove ticker filtering.",
+  "id": "1abcd2e",
+  "created_utc": 1748563200,
+  "title": "$PLTR to the moon DD inside — THE best CEO play in the USA",
+  "selftext": "Bought more PLTR today. THE thesis: government contracts. CEO Karp is cracked. Not financial advice, USA strong.",
+  "score": 4210,
+  "num_comments": 318,
+  "link_flair_text": "DD"
+}
