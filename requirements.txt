@@ -1,0 +1,30 @@
+# Prism runtime + dev dependencies. Target: Python 3.12 (NOT 3.14 — ADK/data stack lag there).
+# Install:  py -3.12 -m venv .venv ; .venv\Scripts\Activate.ps1 ; pip install -r requirements.txt
+
+# --- Agent framework + Google Cloud AI (the ONLY runtime AI, per CLAUDE.md rule 1) ---
+google-adk>=1.0.0            # Google Agent Development Kit (code-first Agent Builder)
+google-genai>=1.0.0          # Gemini 3.1 Pro via Vertex AI (structured output for advocates)
+google-cloud-aiplatform>=1.70
+
+# --- Database ---
+pymongo>=4.10                # all collection reads/writes; Atlas Vector Search via aggregation
+
+# --- Data ingestion ---
+praw>=7.7                    # Reddit / WSB
+yfinance>=0.2                # price ground-truth
+sec-edgar-downloader>=5.0    # SEC filing-fetch dance
+lxml>=5.0                    # robust 13F / Form 4 XML parsing
+requests>=2.32               # raw SEC API calls (need User-Agent header)
+
+# --- Schemas / validation ---
+pydantic>=2.9                # structured-output contracts (one per source + unified shape)
+
+# --- UI + ops ---
+streamlit>=1.40              # frontend (designed via claude.ai/design)
+python-dotenv>=1.0
+tenacity>=9.0                # retries on flaky SEC/Reddit
+rich>=13.0                   # nicer ingestion CLI output
+
+# --- Dev / quality (used by the build->review loop) ---
+pytest>=8.0
+ruff>=0.6

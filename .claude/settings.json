@@ -1,0 +1,41 @@
+{
+  "$comment": "Shared project settings (committed). The allowlist lets Prism's sub-agents run the routine dev loop — Python, tests, lint, local git, MongoDB MCP reads, Playwright — without prompting, per the project owner's request. Outward-facing actions (git push, deploys) are intentionally NOT here and remain gated.",
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(py *)",
+      "Bash(.venv/Scripts/python *)",
+      "Bash(.venv/Scripts/python.exe *)",
+      "Bash(python -m *)",
+      "Bash(python -m pytest *)",
+      "Bash(pytest *)",
+      "Bash(ruff *)",
+      "Bash(pip install *)",
+      "Bash(python -m pip install *)",
+      "Bash(mkdir *)",
+      "Bash(ls *)",
+      "Bash(find *)",
+      "Bash(cat *)",
+      "Bash(git status *)",
+      "Bash(git diff *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git log *)",
+      "Bash(git branch *)",
+      "Bash(git checkout *)",
+      "Bash(git switch *)",
+      "Bash(git restore *)",
+      "Bash(git stash *)",
+      "Bash(pwsh scripts/codex-review.ps1 *)",
+      "Bash(powershell scripts/codex-review.ps1 *)",
+      "PowerShell(scripts/codex-review.ps1 *)",
+      "Read(//c/Users/EdmundTan/projects/prism/**)",
+      "Write(//c/Users/EdmundTan/projects/prism/**)",
+      "Edit(//c/Users/EdmundTan/projects/prism/**)",
+      "WebFetch",
+      "WebSearch",
+      "mcp__MongoDB__*",
+      "mcp__playwright__*"
+    ]
+  }
+}

@@ -19,7 +19,7 @@ User asks about any US ticker. Three "advocate" sub-agents (institutional / insi
 | ------------------- | -------------------------------------------------------------- |
 | **Agent framework** | Google ADK (`pip install google-adk`)                          |
 | **Runtime**         | Python 3.11+                                                   |
-| **AI model**        | Gemini 2.5 Pro via Vertex AI (structured output for advocates) |
+| **AI model**        | Gemini 3.1 Pro via Vertex AI (advocates may use Gemini 3 Flash); structured output for advocates. Hackathon requires the Gemini 3 family. |
 | **Database**        | MongoDB Atlas M0 (free tier)                                   |
 | **MCP integration** | MongoDB MCP Server (`npx mongodb-mcp-server@latest`)           |
 | **Frontend**        | Streamlit (simple, agent-first — UI is not the differentiator) |

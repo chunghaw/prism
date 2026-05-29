@@ -1,0 +1,12 @@
+{
+  "$comment": "Project-scoped MCP servers for Prism. MongoDB is the one partner MCP (CLAUDE.md rule 5). Playwright is already registered at the user scope and is used for UI iteration. The MongoDB server reads its connection string from MONGODB_URI in the environment / .env — no secret is committed here.",
+  "mcpServers": {
+    "MongoDB": {
+      "command": "npx",
+      "args": ["-y", "mongodb-mcp-server@latest"],
+      "env": {
+        "MDB_MCP_CONNECTION_STRING": "${MONGODB_URI}"
+      }
+    }
+  }
+}
