@@ -90,17 +90,23 @@ data = resp.json()
 Start with funds where 13F changes have predictive value (well-known names):
 
 ```python
+# CIKs VERIFIED live against data.sec.gov (see agent/ingest/data/top_funds.json).
+# ⚠️ Earlier drafts of this list had wrong CIKs — 0001336528 is Pershing Square
+# (not Bridgewater), 0001112511 is a 404 (not Citadel), 0001029160 is Soros
+# (not Two Sigma). Always verify a CIK against the submissions endpoint before use.
 TOP_FUNDS_CIK = {
-    "0001067983": "Berkshire Hathaway",
-    "0001037389": "Renaissance Technologies",
-    "0001336528": "Bridgewater Associates",
-    "0001112511": "Citadel Advisors",
-    "0001029160": "Two Sigma Investments",
-    # ... 195 more
+    "0001067983": "Berkshire Hathaway Inc",
+    "0001037389": "Renaissance Technologies LLC",
+    "0001336528": "Pershing Square Capital Management, L.P.",
+    "0001350694": "Bridgewater Associates, LP",
+    "0001423053": "Citadel Advisors LLC",
+    "0001179392": "Two Sigma Investments, LP",
+    "0001029160": "Soros Fund Management LLC",
+    # ... expand toward the top ~200
 }
 ```
 
-The full top-200 list is available on [WhaleWisdom's home page](https://whalewisdom.com/) — capture by hand or scrape (legal — public list of fund names).
+The full top-200 list is available on [WhaleWisdom's home page](https://whalewisdom.com/) — capture by hand or scrape (legal — public list of fund names). **Verify every CIK** via `https://data.sec.gov/submissions/CIK{cik}.json` before adding it.
 
 ---
 

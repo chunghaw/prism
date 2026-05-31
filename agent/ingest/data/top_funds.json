@@ -1,0 +1,10 @@
+{
+  "_note": "Well-known 13F filers, CIKs VERIFIED live against data.sec.gov (names are SEC-reported). Expand toward the top ~200 as needed; fetch_13f skips any CIK that has no 13F-HR.",
+  "0001067983": "BERKSHIRE HATHAWAY INC",
+  "0001037389": "RENAISSANCE TECHNOLOGIES LLC",
+  "0001336528": "Pershing Square Capital Management, L.P.",
+  "0001350694": "Bridgewater Associates, LP",
+  "0001423053": "CITADEL ADVISORS LLC",
+  "0001179392": "TWO SIGMA INVESTMENTS, LP",
+  "0001029160": "SOROS FUND MANAGEMENT LLC"
+}
